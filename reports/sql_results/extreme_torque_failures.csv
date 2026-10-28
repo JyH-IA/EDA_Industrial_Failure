@@ -1,0 +1,4 @@
+banda_torque,n_registros,n_fallas,tasa_falla_pct
+torque_bajo,57,30,52.63
+torque_alto,608,148,24.34
+torque_intermedio,9335,161,1.72

@@ -1,0 +1,13 @@
+# Industrial Failure Intelligence — dependencias
+# Entorno verificado: Python 3.14.
+# Versiones mínimas; el README documenta las versiones exactas probadas.
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+streamlit>=1.35
+# Notebook (opcional para el pipeline y el dashboard, necesario para notebooks/)
+jupyter>=1.0
+nbconvert>=7.0
+ipykernel>=6.0
